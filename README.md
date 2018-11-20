@@ -6,7 +6,7 @@ https://doub.io/ss-jc60/
 CentOS 6+ / Debian 6+ / Ubuntu 14.04 +   
 推荐 Debian 7 x64，这个是我一直使用的系统，我的脚本在这个系统上面出错率最低。并且最容易安装锐速（锐速不支持OpenVZ）    
 CentOS 7 自带防火墙问题(firewalld)自行解决，其他版本没有做测试。  
-# 安装：
+# 一键安装命令：
 wget -N --no-check-certificate https://raw.githubusercontent.com/Ache1123/doubi/master/ssrmu.sh && chmod +x ssrmu.sh && bash ssrmu.sh
 # 卸载：
 ssrmu.sh脚本里有卸载选项
